@@ -13,6 +13,7 @@ Created index.md homepage with basic markdown content:
 - Added subheaders (H2/H3) for structure showing
 - H4,H5,H6 just to try out
 
+# Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 # Code
@@ -23,3 +24,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+# Task List
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
