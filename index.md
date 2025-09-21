@@ -12,3 +12,5 @@ Created index.md homepage with basic markdown content:
 - Added H1 main title
 - Added subheaders (H2/H3) for structure showing
 - H4,H5,H6 just to try out
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
